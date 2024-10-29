@@ -1,0 +1,36 @@
+#hero{
+    background-image: url(IMAGES/TRAVELS.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: whitesmoke;
+}
+#hero h1, #hero p, #hero a{
+    color:black;
+}
+#destinations{
+    background-color:skyblue;
+}
+
+#tours{
+    background-color: skyblue;
+}
+
+#tours h2{
+    text-align: center;
+}
+
+.card-body{
+    font-size: medium;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#contact{
+    background-color: skyblue;
+}
+
+.btn-primary{
+    margin-top: 20px;
+}
